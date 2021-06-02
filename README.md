@@ -4,4 +4,4 @@
 Visit portal at [link to ICT Portal!](http://ictmu.in)
 
 # Feature list
-coming soon
+1. Automatic CV generation
